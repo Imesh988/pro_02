@@ -51,6 +51,8 @@ $result = $connection->query($sql);
       <th scope="col">name</th>
       <th scope="col">batch</th>
       <th scope="col">course</th>
+      <th scope="col">course one</th>
+      
 
     </tr>
   </thead>
